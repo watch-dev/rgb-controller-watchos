@@ -1,6 +1,6 @@
 # rgb-controlller-watchos
-パソコンのライティングをアップルウォッチから操作できるようにするアプリです。  
-動作させるには下記のリンクからプログラムを対象のパソコンにインストールし、実行させる必要があります。  
+It is an application that allows you to control the lighting of your computer from your Apple Watch.  
+To make it work, you need to install the program on the target computer from the link below and run it.
  [ottotak/rgb-controller-server](https://github.com/ottotak/rgb-controller-server)
  
 # Demo
